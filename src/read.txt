@@ -1,0 +1,8 @@
+
+prop drilling and state lifting
+when too many components our tese two things bocomes complicated,
+thats when we use  useContext api -- by creating the providers folder
+separetely and add code in it which will be available for remaining all
+
+
+context api==> teleporting instantly || Context provider n consumer
